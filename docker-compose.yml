@@ -4,5 +4,5 @@ services:
     image: hakush1n/331-frontend:latest 
     ports:
       - "8001:80"  
-    restart: always  
+    # restart: always  
 
