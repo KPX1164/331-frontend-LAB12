@@ -13,7 +13,8 @@ const organiser =ref<Organiser> ({
   id: 0,
   name: ' ',
   address: ' ',
-  images: []
+  images: [],
+  roles: [],
 })
 
 function  saveOrganiser() {
