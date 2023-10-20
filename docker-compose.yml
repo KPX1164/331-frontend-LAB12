@@ -1,7 +1,7 @@
 version: '3.8'
 services:
   frontend:
-    image: hakush1n/331-frontend:latest 
+    image: hakush1n/311-fontend-lab12:latest 
     ports:
       - "8001:80"  
     # restart: always  
